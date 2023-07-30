@@ -4,4 +4,4 @@ console.log(wynik)
 
 let imie = "Andrzej";
 let wiek = "43";
-console.log (`Nazywam się ${imie} i mam ${wiek} lat.`);
+console.log (`Nazywam się ${imie} i mam ${wiek} lata.`);
