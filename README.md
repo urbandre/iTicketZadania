@@ -15,7 +15,7 @@
 
 - >>cytując blokowo
 
-- dodając obrazek bądź gifa
+- dodając obrazek bądź gifa  
 ![Gifek](https://media.giphy.com/media/26tP3M3i03hoIYL6M/giphy.gif) 
 
 - zaznaczając że text jest `kodem`
