@@ -10,3 +10,10 @@ const user = {
 	  console.log(key + ': ' + user[key]);
 	
   }
+
+
+
+  
+  const entries = Object.entries(user);
+  
+  console.log(entries);
